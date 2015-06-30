@@ -1,0 +1,22 @@
+{
+  "name": "service",
+  "version": "0.1.0",
+  "author": "qi.hualu@outlook.com",
+  "description": "service",
+  "main": "service.js",
+  "dependencies": {
+    "apn": "*",
+    "body-parser": "1.8.1",
+    "compression": "1.1.0",
+    "crypto": "0.0.3",
+    "express": "4.9.0",
+    "express-routescan": "0.2.1",
+    "express-streamline": "0.5.1",
+    "jsonwebtoken": "5.0.0",
+    "node-uuid": "1.4.2",
+    "request": "2.51.0",
+    "request-ip": "0.0.1",
+    "streamline": "0.10.13",
+    "xml2js": "0.4.4"
+  }
+}
